@@ -1,7 +1,11 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import AppBar from '@material-ui/core/AppBar';
+
 import './Navbar.sass';
+
+import AppBar from '@material-ui/core/AppBar';
+
+import LogoImg from 'assets/Logo.svg'
 
 class Navbar extends React.Component {
 
@@ -39,11 +43,14 @@ class Navbar extends React.Component {
 			<AppBar id="navBar" position="sticky">
 				<div className="innerContainer">
 					<div className="logo">
-						Monarch
+						<img src={LogoImg} alt="Puple Monarch logo"/>
 					</div>
 					<div className="navItems">
 						{ this.createNavItems() }
 					</div>
+
+					<button>Log in</button>
+
 				</div>
 			</AppBar>
 		);

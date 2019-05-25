@@ -1,14 +1,14 @@
 import React from "react";
-import Value1Img from "assets/value1.svg";
+import Value3Img from "assets/value3.svg";
 
-class Value1 extends React.Component {
+class Value extends React.Component {
 	render() {
 		return (
-			<div class="value1 section">
-				<img src={Value1Img} alt="human brainstorming"/>
+			<div class="value3 section">
+				<img src={Value3Img} alt="human brainstorming"/>
 				<div>
 					<h2>
-						Value #1
+						Value #3
 					</h2>
 					<p>
 						We’re here to help you find more about Lupus and to receive the support that you require.
@@ -19,4 +19,4 @@ class Value1 extends React.Component {
 	}
 }
 
-export default Value1;
+export default Value;

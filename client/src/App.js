@@ -5,7 +5,10 @@ import './App.sass';
 
 import Navbar from 'components/Navbar/Navbar';
 import Hero from 'containers/Hero/Hero';
-import Value1 from 'containers/Value1/Value1';
+import Value1 from 'containers/Value/Value1';
+import Value2 from 'containers/Value/Value2';
+import Value3 from 'containers/Value/Value3';
+import Footer from 'components/Footer/Footer.js';
 
 function App() {
   return (
@@ -14,7 +17,10 @@ function App() {
 	    <div className="contentBody">
 		    <Hero/>
 		    <Value1/>
+		    <Value2/>
+		    <Value3/>
 	    </div>
+	    <Footer/>
     </div>
   );
 }
