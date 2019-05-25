@@ -15,7 +15,7 @@ class Navbar extends React.Component {
 			link: ""
 		},
 		{
-			title: "Medication",
+			title: "Treatment",
 			link: ""
 		},
 		{
