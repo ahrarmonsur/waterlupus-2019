@@ -25,7 +25,7 @@ class Footer extends React.Component {
 						<span>Support Us</span>
 					</div>
 					<div className="languages">
-						English &nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp; French
+						EN&nbsp;&nbsp;|&nbsp;&nbsp;FR&nbsp;&nbsp;|&nbsp;&nbsp;CHI&nbsp;&nbsp;|&nbsp;&nbsp;AR
 					</div>
 
 				</div>
