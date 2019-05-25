@@ -9,6 +9,7 @@ import Value1 from 'containers/Value/Value1';
 import Value2 from 'containers/Value/Value2';
 import Value3 from 'containers/Value/Value3';
 import Footer from 'components/Footer/Footer.js';
+import ContactForm from 'components/ContactForm/ContactForm';
 
 function App() {
   return (
@@ -19,6 +20,7 @@ function App() {
 		    <Value1/>
 		    <Value2/>
 		    <Value3/>
+		    <ContactForm/>
 	    </div>
 	    <Footer/>
     </div>

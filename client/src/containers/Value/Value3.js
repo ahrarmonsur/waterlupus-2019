@@ -8,10 +8,19 @@ class Value extends React.Component {
 				<img src={Value3Img} alt="human brainstorming"/>
 				<div>
 					<h2>
-						Value #3
+						Build your community
 					</h2>
+
 					<p>
-						We’re here to help you find more about Lupus and to receive the support that you require.
+						Did you know that about <span className="highlight">1 in 1000</span> Canadians have lupus?
+					</p>
+
+					<p>
+						Connect with the community at large and share your experiences with others in your vicinity to better support each other.
+					</p>
+
+					<p className="highlight">
+						Explore the community now ➜
 					</p>
 				</div>
 			</div>

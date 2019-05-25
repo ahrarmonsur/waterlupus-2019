@@ -8,11 +8,19 @@ class Value extends React.Component {
 				<img src={Value1Img} alt="human brainstorming"/>
 				<div>
 					<h2>
-						Value #1
+						Personalized Financial Resources
 					</h2>
 					<p>
-						We’re here to help you find more about Lupus and to receive the support that you require.
+						Financial support can vary between individuals and across provinces/territories.
 					</p>
+					<p>
+						We can help you find financial resources catered to you and recieve tailored advice to increase your chances of getting support.
+					</p>
+
+					<p className="highlight">
+						Explore tools to finance your condition ➜
+					</p>
+
 				</div>
 			</div>
 		);

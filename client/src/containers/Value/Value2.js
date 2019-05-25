@@ -7,10 +7,19 @@ class Value extends React.Component {
 			<div class="value2 section">
 				<div>
 					<h2>
-						Value #2
+						Connect	With Experts
 					</h2>
+
 					<p>
-						We’re here to help you find more about Lupus and to receive the support that you require.
+						No matter where you are, connect with experts to find out more about living with lupus.
+					</p>
+
+					<p>
+						Receive frequent updates on the availability of your specialists and how you can best reach them.
+					</p>
+
+					<p className="highlight">
+						Explore your options for care ➜
 					</p>
 				</div>
 				<img src={Value2Img} alt="human brainstorming"/>
