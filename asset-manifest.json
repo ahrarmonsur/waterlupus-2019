@@ -1,18 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.61d26e77.chunk.css",
-    "main.js": "/static/js/main.eef6a80e.chunk.js",
-    "main.js.map": "/static/js/main.eef6a80e.chunk.js.map",
+    "main.css": "/static/css/main.aae14d05.chunk.css",
+    "main.js": "/static/js/main.60f67985.chunk.js",
+    "main.js.map": "/static/js/main.60f67985.chunk.js.map",
     "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
     "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
-    "static/js/2.61d477c5.chunk.js": "/static/js/2.61d477c5.chunk.js",
-    "static/js/2.61d477c5.chunk.js.map": "/static/js/2.61d477c5.chunk.js.map",
+    "static/js/2.7a9d417f.chunk.js": "/static/js/2.7a9d417f.chunk.js",
+    "static/js/2.7a9d417f.chunk.js.map": "/static/js/2.7a9d417f.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.cff6c579880eb4a2e5e5d74c4265d952.js": "/precache-manifest.cff6c579880eb4a2e5e5d74c4265d952.js",
+    "precache-manifest.741d0c8909b703cf118888ebeecabe3c.js": "/precache-manifest.741d0c8909b703cf118888ebeecabe3c.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.61d26e77.chunk.css.map": "/static/css/main.61d26e77.chunk.css.map",
+    "static/css/main.aae14d05.chunk.css.map": "/static/css/main.aae14d05.chunk.css.map",
+    "static/media/Facebook.svg": "/static/media/Facebook.dab75328.svg",
+    "static/media/Instagram.svg": "/static/media/Instagram.ed89743d.svg",
+    "static/media/LinkedIn.svg": "/static/media/LinkedIn.1bc2d911.svg",
+    "static/media/Logo.svg": "/static/media/Logo.06dad45a.svg",
+    "static/media/Twitter.svg": "/static/media/Twitter.0c4d39d9.svg",
     "static/media/humans_1.svg": "/static/media/humans_1.d2baf6ab.svg",
     "static/media/logo.svg": "/static/media/logo.5d5d9eef.svg",
-    "static/media/value1.svg": "/static/media/value1.aa0db789.svg"
+    "static/media/value1.svg": "/static/media/value1.aa0db789.svg",
+    "static/media/value2.svg": "/static/media/value2.56215a86.svg",
+    "static/media/value3.svg": "/static/media/value3.5c3505b8.svg"
   }
 }
