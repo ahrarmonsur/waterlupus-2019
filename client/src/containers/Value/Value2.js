@@ -7,19 +7,19 @@ class Value extends React.Component {
 			<div class="value2 section">
 				<div>
 					<h2>
-						Connect	With Experts
+						Connectez-vous avec des experts
 					</h2>
 
 					<p>
-						No matter where you are, connect with experts to find out more about living with lupus.
+						Où que vous soyez, contactez des experts pour en savoir plus sur la vie avec le lupus.
 					</p>
 
 					<p>
-						Receive frequent updates on the availability of your specialists and how you can best reach them.
+						Recevez des mises à jour fréquentes sur la disponibilité de vos spécialistes et sur la meilleure façon de les contacter.
 					</p>
 
 					<p className="highlight">
-						Explore your options for care ➜
+						Explorez vos options de soins ➜
 					</p>
 				</div>
 				<img src={Value2Img} alt="human brainstorming"/>

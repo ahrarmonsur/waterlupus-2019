@@ -11,13 +11,13 @@ class Hero extends React.Component {
 			<div class="hero section">
 				<div className="heroContent">
 					<h2>
-						Having Lupus doesn’t mean that you have to face it alone.
+						Avoir le lupus ne signifie pas que vous devez vous en occuper seul.
 					</h2>
 					<p>
-						We’re here to help you find more about Lupus and to receive the support that you require.
+						Nous sommes ici pour vous aider à en apprendre davantage sur le lupus et à obtenir le soutien dont vous avez besoin.
 					</p>
 					<EmailInput/>
-					<p>Have questions? <span className="expertCTA">Talk to an Expert.</span></p>
+					<p>Avoir des questions? <span className="expertCTA">Parlez avec un expert.</span></p>
 
 				</div>
 				<img src={Humans1Img} alt="humans interacting"/>

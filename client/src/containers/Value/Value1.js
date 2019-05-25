@@ -8,17 +8,17 @@ class Value extends React.Component {
 				<img src={Value1Img} alt="human brainstorming"/>
 				<div>
 					<h2>
-						Personalized Financial Resources
+						Ressources financières personnalisées
 					</h2>
 					<p>
-						Financial support can vary between individuals and across provinces/territories.
+						Le soutien financier peut varier d’un individu à l’autre et d’une province ou d’un territoire à l’autre.
 					</p>
 					<p>
-						We can help you find financial resources catered to you and recieve tailored advice to increase your chances of getting support.
+						Nous pouvons vous aider à trouver des ressources financières adaptées à vos besoins et à recevoir des conseils sur mesure pour augmenter vos chances d'obtenir de l'aide.
 					</p>
 
 					<p className="highlight">
-						Explore tools to finance your condition ➜
+						Explorez des outils pour financer votre condition ➜
 					</p>
 
 				</div>

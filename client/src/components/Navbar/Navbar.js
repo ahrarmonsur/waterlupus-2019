@@ -11,19 +11,19 @@ class Navbar extends React.Component {
 
 	navItems = [
 		{
-			title: "Symptoms",
+			title: "Symptômes",
 			link: ""
 		},
 		{
-			title: "Treatment",
+			title: "Traitement",
 			link: ""
 		},
 		{
-			title: "Financing",
+			title: "Financement",
 			link: ""
 		},
 		{
-			title: "Community",
+			title: "Communauté",
 			link: ""
 		},
 	]
@@ -49,7 +49,7 @@ class Navbar extends React.Component {
 						{ this.createNavItems() }
 					</div>
 
-					<button>Log in</button>
+					<button>S'identifier</button>
 
 				</div>
 			</AppBar>

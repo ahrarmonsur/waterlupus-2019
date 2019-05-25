@@ -8,19 +8,19 @@ class Value extends React.Component {
 				<img src={Value3Img} alt="human brainstorming"/>
 				<div>
 					<h2>
-						Build your community
+						Construisez votre communauté
 					</h2>
 
 					<p>
-						Did you know that about <span className="highlight">1 in 1000</span> Canadians have lupus?
+						Saviez-vous qu'environ <span className="highlight">1 Canadien sur 1000</span> a le lupus?
 					</p>
 
 					<p>
-						Connect with the community at large and share your experiences with others in your vicinity to better support each other.
+						Connectez-vous avec l'ensemble de la communauté et partagez vos expériences avec les personnes de votre voisinage pour mieux vous soutenir mutuellement.
 					</p>
 
 					<p className="highlight">
-						Explore the community now ➜
+						Explorez la communauté maintenant ➜
 					</p>
 				</div>
 			</div>
