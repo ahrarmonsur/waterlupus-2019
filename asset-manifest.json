@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/waterlupus-2019/static/css/main.61d26e77.chunk.css",
-    "main.js": "/waterlupus-2019/static/js/main.bf4ab0b0.chunk.js",
-    "main.js.map": "/waterlupus-2019/static/js/main.bf4ab0b0.chunk.js.map",
-    "runtime~main.js": "/waterlupus-2019/static/js/runtime~main.fff56dfb.js",
-    "runtime~main.js.map": "/waterlupus-2019/static/js/runtime~main.fff56dfb.js.map",
-    "static/js/2.61d477c5.chunk.js": "/waterlupus-2019/static/js/2.61d477c5.chunk.js",
-    "static/js/2.61d477c5.chunk.js.map": "/waterlupus-2019/static/js/2.61d477c5.chunk.js.map",
-    "index.html": "/waterlupus-2019/index.html",
-    "precache-manifest.23afdced78cacc6d6f2bbb4991c105c3.js": "/waterlupus-2019/precache-manifest.23afdced78cacc6d6f2bbb4991c105c3.js",
-    "service-worker.js": "/waterlupus-2019/service-worker.js",
-    "static/css/main.61d26e77.chunk.css.map": "/waterlupus-2019/static/css/main.61d26e77.chunk.css.map",
-    "static/media/humans_1.svg": "/waterlupus-2019/static/media/humans_1.d2baf6ab.svg",
-    "static/media/logo.svg": "/waterlupus-2019/static/media/logo.5d5d9eef.svg",
-    "static/media/value1.svg": "/waterlupus-2019/static/media/value1.aa0db789.svg"
+    "main.css": "/static/css/main.61d26e77.chunk.css",
+    "main.js": "/static/js/main.eef6a80e.chunk.js",
+    "main.js.map": "/static/js/main.eef6a80e.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/js/2.61d477c5.chunk.js": "/static/js/2.61d477c5.chunk.js",
+    "static/js/2.61d477c5.chunk.js.map": "/static/js/2.61d477c5.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.cff6c579880eb4a2e5e5d74c4265d952.js": "/precache-manifest.cff6c579880eb4a2e5e5d74c4265d952.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.61d26e77.chunk.css.map": "/static/css/main.61d26e77.chunk.css.map",
+    "static/media/humans_1.svg": "/static/media/humans_1.d2baf6ab.svg",
+    "static/media/logo.svg": "/static/media/logo.5d5d9eef.svg",
+    "static/media/value1.svg": "/static/media/value1.aa0db789.svg"
   }
 }
