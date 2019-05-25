@@ -1,7 +1,7 @@
 {
   "name": "client",
   "version": "0.1.0",
-  "homepage":"https://ahrarmonsur.github.io/waterlupus-2019",
+  "homepage":"https://purplemonarch.ca",
   "private": true,
   "dependencies": {
     "@material-ui/core": "^4.0.0",
